@@ -529,17 +529,17 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>w1</title><link href="./w1.html" rel="alternate"></link><published>2024-02-23T15:00:00+08:00</published><updated>2024-03-01T08:23:30+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-23:./w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>w1</title><link href="./w1.html" rel="alternate"></link><published>2024-02-23T15:00:00+08:00</published><updated>2024-03-01T08:26:28+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-23:./w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;h1&gt;w1&lt;/h1&gt;
-&lt;p&gt;1.建立個人倉儲 https://github.com/41123120/cd2024
-2.下載可攜套件檔案
-3.個人倉儲import至Replit
-4.對倉儲進行改版
-5.完成github雙重認證&lt;/p&gt;
+&lt;p&gt;1.建立個人倉儲 https://github.com/41123120/cd2024&lt;/p&gt;
+&lt;p&gt;2.下載可攜套件檔案&lt;/p&gt;
+&lt;p&gt;3.個人倉儲import至Replit&lt;/p&gt;
+&lt;p&gt;4.對倉儲進行改版&lt;/p&gt;
+&lt;p&gt;5.完成github雙重認證&lt;/p&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
