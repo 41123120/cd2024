@@ -7,6 +7,7 @@ from __future__ import unicode_literals
 
 import os
 import sys
+
 sys.path.append(os.curdir)
 from pelicanconf import *
 
@@ -20,7 +21,6 @@ RELATIVE_URLS = False
 THEME = 'theme/attila'
 BOOTSTRAP_THEME = 'united'
 COLOR_SCHEME_CSS = 'tomorrow_night.css'
-
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 #CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
@@ -41,7 +41,9 @@ DEFAULT_DATE = 'fs'
 #MD_EXTENSIONS = ['fenced_code', 'extra', 'codehilite(linenums=True)']
 MARKDOWN = {
     'extension_configs': {
-        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.codehilite': {
+            'css_class': 'highlight'
+        },
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
     },
