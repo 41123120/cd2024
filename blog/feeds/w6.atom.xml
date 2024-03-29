@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123120協同產品設計實習 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T16:30:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./w6.html" rel="alternate"></link><published>2024-03-29T16:30:00+08:00</published><updated>2024-03-29T08:35:28+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./w6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123120協同產品設計實習 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T16:30:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./w6.html" rel="alternate"></link><published>2024-03-29T16:30:00+08:00</published><updated>2024-03-29T08:38:19+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./w6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
 &lt;h1&gt;w6&lt;/h1&gt;
-&lt;p&gt;更新分組倉儲中的分組倉儲
+&lt;p&gt;取下子模組更新個人倉儲
 &lt;a href="https://github.com/41123120/cd2024"&gt;個人倉儲連結&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecd2024/2a-midag1"&gt;小組倉儲連結&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
