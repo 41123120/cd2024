@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123120協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-03T11:00:00+08:00</updated><entry><title>w11網誌</title><link href="./w11%E7%B6%B2%E8%AA%8C.html" rel="alternate"></link><published>2024-05-03T11:00:00+08:00</published><updated>2024-05-03T08:13:12+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-03:./w11網誌.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123120協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-03T11:00:00+08:00</updated><entry><title>w11網誌</title><link href="./w11%E7%B6%B2%E8%AA%8C.html" rel="alternate"></link><published>2024-05-03T11:00:00+08:00</published><updated>2024-05-03T08:20:18+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-03:./w11網誌.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;h1&gt;w11&lt;/h1&gt;
-&lt;p&gt;新增課程心得:
-從一年級開始接觸github，replit一些基礎的技巧之後，在二下這門課變得輕鬆不少。除了基本的維護倉儲，這學期開始學習網誌的編寫，每週也學習不同領域的知識；例如操作繪圖軟體、幫影片上字幕、透過Chat GPT輔助翻譯論文並統整其內容大綱，這些都有別於以往的課程專注於單一領域的學習，更有多方學習的效果。&lt;/p&gt;
+&lt;p&gt;新增課程心得:&lt;/p&gt;
+&lt;p&gt;從一年級開始接觸github，replit一些基礎的技巧之後，在二下這門課變得輕鬆不少。除了基本的維護倉儲，這學期開始學習網誌的編寫，每週也學習不同領域的知識；例如操作繪圖軟體、幫影片上字幕、透過Chat GPT輔助翻譯論文並統整其內容大綱，這些都有別於以往的課程專注於單一領域的學習，更有多方學習的效果。&lt;/p&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
@@ -266,13 +266,42 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>w10網誌</title><link href="./w10%E7%B6%B2%E8%AA%8C.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-03T06:02:59+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-26:./w10網誌.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>w10網誌</title><link href="./w10%E7%B6%B2%E8%AA%8C.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-03T08:30:03+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-26:./w10網誌.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;h1&gt;w10&lt;/h1&gt;
-&lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
+&lt;h2&gt;任務(一)&lt;/h2&gt;
+&lt;p&gt;列出 2a 各學員評分相關網站:&lt;/p&gt;
+&lt;iframe src="https://nfuedu-my.sharepoint.com/personal/41123120_nfu_edu_tw/_layouts/15/embed.aspx?UniqueId=45658ded-8b4a-4ae3-9b81-1e3d9a45aeae" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="任務一.txt"&gt;&lt;/iframe&gt;
+&lt;h2&gt;任務(二)&lt;/h2&gt;
+&lt;p&gt;各篇論文要點摘要：&lt;/p&gt;
+&lt;p&gt;論文一：Construction and theoretical study of a ball balancing platform&lt;/p&gt;
+&lt;p&gt;探討自動控制理論在穩定動態系統時的局限性，以球體平衡平台為例。 建立球體平衡平台的理論模型，並與實際搭建的平台進行比較。 分析理論與實際結果之間的差異，探討控制理論與系統實施的挑戰。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;線性控制可以實現球體平衡平台的良好性能，但存在靜態誤差。 理論與實際結果的差異主要來自於物理模型的誤差和電子元件的非理想特性。 穩定動態系統的性能受限於狀態調整的靈活性、控制器設計和輸入數據的準確性。&lt;/p&gt;
+&lt;p&gt;論文二：A real time control system for balancing a ball on a platform with FPGA parallel implementation&lt;/p&gt;
+&lt;p&gt;提出基於 PID 控制器的解決方案，以提高球體在平台上的位置調節精度。 使用 FPGA 實現平行計算，以提高系統速度和性能。 開發球體平衡平台的轉移函數，並合成 PID 控制器。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;透過 FPGA 平行計算實現的 PID 控制器能有效提高球體位置調節精度。 該方案可應用於控制具有多個參數的高速物件。&lt;/p&gt;
+&lt;p&gt;論文三：Simulation and Experimental Study of Ball Position Control at Biaxial Platform using State Space Approach&lt;/p&gt;
+&lt;p&gt;設計和比較三種控制結構，用於自動穩定球體在平台上的位置和軌跡追踪：PD 控制器、狀態空間反饋和帶狀態空間回饋的狀態空間觀測器。 使用牛頓法推導球體平衡平台的數學模型，並設計直流電機位置迴路控制。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;三種控制結構均能實現穩定控制，但狀態空間觀測器具有最佳性能。 該研究建立了一個教育平台，用於向非技術人員解釋基本控制系統原理。&lt;/p&gt;
+&lt;p&gt;論文四：Design and Implementation a Ball Balancing System for Control Theory Course&lt;/p&gt;
+&lt;p&gt;開發一個球體平衡系統，使用微控制器和控制演算法來調節球體在梁上的平衡。 利用超聲波傳感器獲取球體位置，並使用 PID 控制演算法調整梁的角度。 開發介面程式，將即時位置曲線繪製在 MATLAB 中。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;球體平衡系統是一個低成本的教育工具，可用於教授控制理論的應用。 該系統允許學生將理論知識應用於實踐中，並了解封閉迴路回饋系統和 PID 演算法的原理。&lt;/p&gt;
+&lt;p&gt;論文五：Ball on the plate balancing control system&lt;/p&gt;
+&lt;p&gt;設計一個二自由度球體平衡實驗平台，用於測試和驗證平衡控制演算法。 使用電阻式觸摸屏獲取球體位置數據，使用步進電機和位置傳感器控制平台傾斜角度。 設計基於 AVR 微控制器的雙環下屬控制系統，使用 PID 控制器維持球體平衡。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;該系統使用步進電機替代伺服電機，並無需外部電腦進行圖像處理，具有成本效益和易於控制的優勢。 未來計劃改進球體位置回饋信號的濾波，以提高控制系統的速度和品質。&lt;/p&gt;
+&lt;p&gt;論文六：2D Ball Balancer Control using QUARC&lt;/p&gt;
+&lt;p&gt;使用 QUARC 軟體設計和實現球體在二維平台上的位置控制。 設計 PD 和 PID 控制器，並探討設定點權重和積分器抗飽和等控制技術。 使用攝像頭讀取球體位置，並進行校準和轉換。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;PD 和 PID 控制器均能實現球體位置控制，但 PID 控制器在跟踪斜坡和正弦參考信號時具有更好的性能。 該實驗涵蓋了建模、控制器設計、模擬和實施等多個控制系統的關鍵步驟，為學生提供了寶貴的學習經驗。
+使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;https://github.com/mdecycu/cmsimde_site&lt;/a&gt; - 假如想要快速將網址套用 html 網站連結, 可以使用此種方法.&lt;/p&gt;
